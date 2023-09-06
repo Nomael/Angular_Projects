@@ -1,7 +1,7 @@
 # Angular_Projects
  
 Projects:
-- AngularBasics : https://www.udemy.com/course/angular-6-for-beginners-by-harsha/
+- AngularBasics : [Tutorial](https://www.udemy.com/course/angular-6-for-beginners-by-harsha)
 
 npm Packages:
 
