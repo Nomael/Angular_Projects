@@ -5,5 +5,5 @@
 
 ## 1.2. npm Packages:
 
-### - npm i bootstrap@4.0.0
+- ### npm i bootstrap@4.0.0
 
