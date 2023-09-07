@@ -10,7 +10,7 @@
 
 ## npm Packages used in the Projects:
 
-- `npm install ` (Used to install the required Packages inside the Projects)
+- `npm install` (Used to install the required Packages inside the Projects)
 
 <details>
 <summary>AngularBasics</summary>
