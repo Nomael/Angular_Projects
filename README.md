@@ -1,6 +1,6 @@
 # Angular_Projects
  
-## Requirements:
+## Requirements and informations:
 
 - IDE Editor (e.g Visual Studio Code)
 - Node.js (Recommended v18.17.1 LTS)
