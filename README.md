@@ -6,6 +6,8 @@
 - Node.js (Recommended v18.17.1 LTS)
 - Angular CLI `npm i @angular/cli -g` (-g stands for globaly)
 
+- `ng new` to create a new Project
+
 ## Projects in this Repository:
 - AngularBasics : [Tutorial](https://www.udemy.com/course/angular-6-for-beginners-by-harsha)
 - Angular For Beginners: [Tutorial](https://www.udemy.com/course/angular-for-beginners-course)
