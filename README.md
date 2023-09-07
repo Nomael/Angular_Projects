@@ -17,12 +17,9 @@
 <br>
 
 - `npm i bootstrap@4.0.0 --save`
-
 - `npm i jquery --save`
-
 - `npm i popper.js --save`
 
-<br>
 </details>
 
 <details>
