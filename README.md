@@ -15,21 +15,19 @@
 <details>
 <summary>AngularBasics</summary>
 <br>
-<pre>
+
 - `npm i bootstrap@4.0.0 --save`
-<br>
+
 - `npm i jquery --save`
-<br>
+
 - `npm i popper.js --save`
-</pre>
+
+<br>
 </details>
 
 <details>
 <summary>AngularForBeginners</summary>
 <br>
-- `npm i bootstrap@4.0.0 --save`
+
 <br>
-- `npm i jquery --save`
-<br>
-- `npm i popper.js --save`
 </details>
