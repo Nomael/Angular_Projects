@@ -2,6 +2,7 @@
  
 ## Requirements:
 
+- IDE Editor (e.g Visual Studio Code)
 - Node.js (Recommended v18.17.1 LTS)
 - Angular CLI `npm i @angular/cli -g` (-g stands for globaly)
 
