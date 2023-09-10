@@ -12,7 +12,7 @@
 - AngularBasics : [Tutorial](https://www.udemy.com/course/angular-6-for-beginners-by-harsha)
 - 2 YT Videos: [Tutorial Nr.1](https://www.youtube.com/watch?v=EZw9YJ551Ic) & [Tutorial Nr.2]()
 
-## npm Packages used in the Projects:
+## npm Packages or Commands used in the Projects:
 
 - `npm install` (Used to install the required Packages inside the Projects)
 
