@@ -16,7 +16,7 @@
 ## npm Packages or Commands used in the Projects:
 
 - `npm install` (Used to install the required Packages inside the Projects)
-- `npm start` or `npm serve (--open)` to start the Web Server (-- open Opens the Brower to the localhost link)
+- `npm start` or `npm serve (--open)` to start the Web Server (-- open Opens the Brower to the Website)
 
 <details>
 <summary>AngularBasics</summary>
