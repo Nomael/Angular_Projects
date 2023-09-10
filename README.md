@@ -10,8 +10,8 @@
 - [Some cool Features](https://www.youtube.com/watch?v=XIUv27nYcLE)
 
 ## Projects in this Repository:
-- AngularBasics : [Tutorial](https://www.udemy.com/course/angular-6-for-beginners-by-harsha)
-- 2 YT Videos: [Tutorial Nr.1](https://www.youtube.com/watch?v=EZw9YJ551Ic) & [Tutorial Nr.2](https://www.youtube.com/watch?v=20cfG_3AWKU)
+- AngularBasics: [Tutorial](https://www.udemy.com/course/angular-6-for-beginners-by-harsha)
+- Angular_MYSQL: [Playlist](https://www.youtube.com/playlist?list=PL9_OU-1M9E_vg0cAHlaN4-yokOP5vyrat)
 
 ## npm Packages or Commands used in the Projects:
 
@@ -28,11 +28,21 @@
 </details>
 
 <details>
-<summary>Angular_MYSQL (2 YT Videos)</summary>
+<summary>Angular_MYSQL</summary>
 <br>
 
-- `npm i jquery --save`
+- Required: MySQL (Workspace or XAMPP) & Postman
+
+# Backend:
+
+- `npm init -y`
+- `npm i express`
+- `npm i -D nodemon`
+- `npm i mysql2 body-parser`
+
+# Frontend:
+
 - `ng add @angular/material`
 - `ng g c components/grocery-list --skipTests=true` (For the grocery-list component creation)
-<br>
+
 </details>
