@@ -10,7 +10,7 @@
 
 ## Projects in this Repository:
 - AngularBasics : [Tutorial](https://www.udemy.com/course/angular-6-for-beginners-by-harsha)
-- Angular For Beginners: [Tutorial](https://www.udemy.com/course/angular-for-beginners-course)
+- 2 YT Videos: [Tutorial Nr.1](https://www.youtube.com/watch?v=EZw9YJ551Ic) & [Tutorial Nr.2]()
 
 ## npm Packages used in the Projects:
 
@@ -27,8 +27,11 @@
 </details>
 
 <details>
-<summary>AngularForBeginners</summary>
+<summary>Angular_MYSQL (2 YT Videos)</summary>
 <br>
 
+- `npm i jquery --save`
+- `ng add @angular/material`
+- `ng g c components/grocery-list --skipTests=true` (For the grocery-list component creation)
 <br>
 </details>

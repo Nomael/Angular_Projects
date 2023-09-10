@@ -1,0 +1,28 @@
+<link rel="stylesheet" href="grocery-list.component.scss">
+
+<mat-toolbar color="primary">CRUD operations</mat-toolbar>
+<h1 class="s-list">Shopping list</h1>
+
+<mat-card class="m-card">
+    <button mat-fab color="primary" class="btn-add">
+        <mat-icon>add</mat-icon>
+    </button>
+    <mat-form-field class="m-f-f">
+        <mat-label>Grocery item</mat-label>
+        <input matInput placeholder="Ex. Rice">
+    </mat-form-field>
+
+    <mat-list>
+        <mat-list-item *ngFor="let grocery of groceries">
+            <span class="s-list-item">{{ grocery.id }}. {{ grocery.item }}</span>
+            <span class="btn-l-i">
+                <button mat-icon-button>
+                    <mat-icon color="primary">edit</mat-icon>
+                </button>
+                <button mat-icon-button>
+                    <mat-icon color="warn">delete</mat-icon>
+                </button>
+            </span>
+        </mat-list-item>
+    </mat-list>
+</mat-card>
