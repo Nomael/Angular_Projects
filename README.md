@@ -33,14 +33,14 @@
 
 - Required: MySQL (Workspace or XAMPP) & Postman
 
-# Backend:
+#### Backend:
 
 - `npm init -y`
 - `npm i express`
 - `npm i -D nodemon`
 - `npm i mysql2 body-parser`
 
-# Frontend:
+#### Frontend:
 
 - `ng add @angular/material`
 - `ng g c components/grocery-list --skipTests=true` (For the grocery-list component creation)
