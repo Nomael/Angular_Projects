@@ -10,7 +10,7 @@
 
 ## Projects in this Repository:
 - AngularBasics : [Tutorial](https://www.udemy.com/course/angular-6-for-beginners-by-harsha)
-- 2 YT Videos: [Tutorial Nr.1](https://www.youtube.com/watch?v=EZw9YJ551Ic) & [Tutorial Nr.2]()
+- 2 YT Videos: [Tutorial Nr.1](https://www.youtube.com/watch?v=EZw9YJ551Ic) & [Tutorial Nr.2](https://www.youtube.com/watch?v=20cfG_3AWKU)
 
 ## npm Packages or Commands used in the Projects:
 
