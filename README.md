@@ -7,6 +7,7 @@
 - Angular CLI `npm i @angular/cli -g` (-g stands for globaly)
 
 - Type `ng new` to create a new Project
+- [Some cool Features](https://www.youtube.com/watch?v=XIUv27nYcLE)
 
 ## Projects in this Repository:
 - AngularBasics : [Tutorial](https://www.udemy.com/course/angular-6-for-beginners-by-harsha)
