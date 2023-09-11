@@ -38,7 +38,7 @@
 
 - `npm init -y`
 - `npm i express`
-- `npm i -D nodemon`
+- `npm i -D nodemon` (-D stands for Developement and nodemon is for an Auto reload of the Data / Code)
 - `npm i mysql2 body-parser`
 
 #### Frontend:
